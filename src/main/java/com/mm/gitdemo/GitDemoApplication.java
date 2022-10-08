@@ -10,6 +10,7 @@ public class GitDemoApplication {
         SpringApplication.run(GitDemoApplication.class, args);
 
         //啥好事实话实说
+        //换届大会好的好的接口
 
     }
 
